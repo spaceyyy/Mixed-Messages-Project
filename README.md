@@ -6,10 +6,10 @@ A quote generator that displays quotes!
 
 + [Introduction](https://github.com/spaceyyy/Mixed-Messages-Project#introduction)
 + [Technologies](https://github.com/spaceyyy/Mixed-Messages-Project#technologies)
-+ [Examples of Use](https://github.com/spaceyyy/Mixed-Messages-Project#Examplesofuse)
-+ [Project Status](https://github.com/spaceyyy/Mixed-Messages-Project#projectstatus)
-+ [Room for Improvement](https://github.com/spaceyyy/Mixed-Messages-Project#roomforimprovement)
-+ [Sources/Acknowledgements](https://github.com/spaceyyy/Mixed-Messages-Project#sources/acknowledgements)
++ [Examples of Use](https://github.com/spaceyyy/Mixed-Messages-Project#examples-of-use)
++ [Project Status](https://github.com/spaceyyy/Mixed-Messages-Project#project-status)
++ [Room for Improvement](https://github.com/spaceyyy/Mixed-Messages-Project#room-for-improvement)
++ [Sources/Acknowledgements](https://github.com/spaceyyy/Mixed-Messages-Project#sourcesacknowledgements)
 + [Contact](https://github.com/spaceyyy/Mixed-Messages-Project#contact)
 
 ## Introduction
