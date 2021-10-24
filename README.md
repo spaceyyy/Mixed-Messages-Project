@@ -29,8 +29,9 @@ This is codecademy's first project done on your own environment compared to usin
 
 ### Examples of use
 
-![front page](img/defaultFrontPage.png)
-![quote display](img/frontPageWithQuoteDisplay.png)
+![defaultFrontPage](https://user-images.githubusercontent.com/18295073/138616475-da250017-125b-43ce-8a15-643d3c47ef2a.PNG)
+![frontPageWithQuoteDisplay](https://user-images.githubusercontent.com/18295073/138616482-b1e5f20d-2836-4396-bfab-027be3941ce9.PNG)
+
 
 ### Project Status
 
