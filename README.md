@@ -29,7 +29,7 @@ This is codecademy's first project done on your own environment compared to usin
 
 ### Examples of use
 
-![front page](img/defaultFrontPage.png)
+![front page](../img/defaultFrontPage.png)
 ![quote display](img/frontPageWithQuoteDisplay.png)
 
 ### Project Status
