@@ -29,14 +29,41 @@ This is codecademy's first project done on your own environment compared to usin
 
 ### Examples of use
 
+![front page](img/defaultFrontPage.png)
+![quote display](img/frontPageWithQuoteDisplay.png)
+
 ### Project Status
+
+Currently in progress. Would like to redo with another programmer or a group of programmers to simulate working on a team.
 
 ### Room for Improvement
 
+__Todo:__  
++ Add a text input for the user to add in their own quotes.
++ Add functionality to allow the user to save favorite quotes
++ Better design (think color and font theory)
+
 ### Sources/Acknowledgements
+
+Thanks to FreeCodeCamp, Codecademy, Google, various folks off of discord, the links below, fellow GitHub users, and more for assisting, teaching, and giving examples to help with this project.
+
+1. https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/
+
+2. https://github.com/wolf-ed
+
+3. https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+
+4. https://github.com/ritaly/README-cheatsheet#features
+
+5. https://www.w3schools.com/
+
 
 ### Contact
 
+Feel free to contact me! (link/website coming soon)
 
+https://www.codecademy.com/profiles/mickey_mick
+
+https://github.com/spaceyyy
 
 
